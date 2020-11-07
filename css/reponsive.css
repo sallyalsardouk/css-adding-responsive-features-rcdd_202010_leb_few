@@ -13,4 +13,7 @@
   body {
     font-size: 85%;
   }
-  
+  #logo h1{
+    height: 35px;
+    width: 35px;
+  }
